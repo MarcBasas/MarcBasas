@@ -29,7 +29,7 @@ Building the web app at [Aurea](https://www.aurea.gg) with React and Next.js. I 
 
 ## Stack
 
-<img src="assets/stack.svg" alt="Front end: React, Next.js, TypeScript, JavaScript, Astro, HTML, CSS. Back end: Java, WordPress, WooCommerce, Stripe. For fun: Python, Pygame, Electron, OpenCV, VBA." width="100%">
+<img src="assets/stack.svg" alt="Front end: React, Next.js, TypeScript, JavaScript, Astro, HTML, CSS. Back end: TypeScript, Java, WordPress, WooCommerce, Stripe. For fun: Python, Pygame, Electron, OpenCV, VBA, Astro." width="100%">
 
 ## Get in touch
 
