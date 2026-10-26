@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Marc Basas, full stack developer in Barcelona. I build web products from the interface down to the payments, and I have shipped two of them entirely on my own." width="100%">
+  <img src="assets/banner.svg" alt="Marc Basas, full stack developer in Barcelona. Building web products to help people and businesses with their day to day." width="100%">
 </p>
 
 Before this I spent two years at NTT DATA: one building Java microservices, one building React and TypeScript interfaces from design files.
@@ -12,8 +12,8 @@ Building the web app at [Aurea](https://www.aurea.gg) with React and Next.js. I 
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [**WP Verifactu**](https://wpverifactu.com) | Invoicing for Spanish WooCommerce stores. A WordPress plugin and a [web platform](https://app.wpverifactu.com/) that issue invoices with a QR code and send them to the AEAT, the Spanish tax agency, as Verifactu requires. | `WordPress` `WooCommerce` |
-| [**Bodina**](https://www.mybodina.com) | A wedding gift list where couples create their own funds and guests contribute by card. Payments go straight to the couple's bank account. Built end to end, from the first sketch to the live payments. | `Stripe` |
+| [**WP Verifactu**](https://wpverifactu.com) | Invoicing for Spanish WooCommerce stores. A WordPress plugin and a [web platform](https://app.wpverifactu.com/) that issue invoices with a QR code and send them to the AEAT, the Spanish tax agency, as Verifactu requires. | `Next.js` `TypeScript` `Supabase` `BullMQ` `Stripe` |
+| [**Bodina**](https://www.mybodina.com) | A wedding gift list where couples create their own funds and guests contribute by card. Payments go straight to the couple's bank account. Built end to end, from the first sketch to the live payments. | `Next.js` `TypeScript` `Supabase` `Stripe Connect` |
 
 ## Smaller work
 
